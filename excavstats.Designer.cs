@@ -94,6 +94,7 @@ namespace WindowsFormsApp1
             // textBox3
             // 
             this.textBox3.Location = new System.Drawing.Point(52, 151);
+            this.textBox3.MaxLength = 3;
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(121, 20);
             this.textBox3.TabIndex = 29;
